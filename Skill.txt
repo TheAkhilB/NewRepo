@@ -4,4 +4,8 @@ Original
 patch-1
 Resolved
 =======
+patch-2
 Original code edite
+=======
+Original code edited by me
+master

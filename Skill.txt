@@ -1,2 +1,5 @@
-Github v1
+patch-1
+Resolved
+=======
 Original code edited
+master
